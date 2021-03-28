@@ -8,5 +8,5 @@ And Paste Code From guess_the_number.py to that app and run it.
                                          pkg install python
                                          pkg install git
                       git clone https://github.com/Ammad-Younas/Text_based_Game.git
-                                       cd  Text_based_Game
+                                       cd Text_based_Game
                                        python guess_the_number.py 
