@@ -1,8 +1,8 @@
 import os
 import random
-stored_number = random.randint(0, 1000)
 os.system("")
 def game():
+	stored_number = random.randint(0, 1000)
 	class color:
 		underline='\033[04m'
 		bold='\033[01m'
